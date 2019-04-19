@@ -45,6 +45,7 @@ console.log(fullName);
   // the length of the children array.
   
  let mouthsToFeed = composer.children.length
+// let mouthsToFeed = composer['children'].length alternate way to do the same thing
   
   // Console log the compositions array. What is going to happen?
   
